@@ -1,0 +1,25 @@
+{
+  "overview": "A modern, premium marketing website for Olympia Lily Wellness Private Limited — a healthcare and nutritional supplements company based in Nagaon, Assam, India. Features a professional hero section, product showcase (Vitamins, Calcium, Protein, Wellness), founder profile, contact form with WhatsApp integration, and a fully responsive layout with smooth animations.",
+  "features": [
+    "Hero section with tagline and CTA buttons",
+    "Product categories with filterable grid (Vitamins, Calcium, Protein, Others)",
+    "Founder profile with photo (Abul Kalam Azad)",
+    "Why Choose Us section with trust features",
+    "Contact form with WhatsApp and phone integration",
+    "Testimonials and FAQ accordion",
+    "Floating WhatsApp button",
+    "SEO-optimized meta tags",
+    "Fully responsive design",
+    "Smooth scroll navigation and CSS animations"
+  ],
+  "category": "healthcare-wellness",
+  "tags": [
+    "healthcare",
+    "wellness",
+    "nutritional-supplements",
+    "marketing-website",
+    "india",
+    "single-page-app"
+  ],
+  "last_updated": "2026-04-25T14:39:37.832Z"
+}
